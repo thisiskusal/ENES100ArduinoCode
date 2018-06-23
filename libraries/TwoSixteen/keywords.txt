@@ -1,0 +1,8 @@
+Pixels	DATA_TYPE
+init_neopixel_blit	KEYWORD2
+neopixel_blit	KEYWORD2
+init_serial_stdio	KEYWORD2
+
+PIX_GRN	PREPROCESSOR
+PIX_RED	PREPROCESSOR
+PIX_BLU	PREPROCESSOR

@@ -1,0 +1,6 @@
+#include "avr_mcu_section.h"
+AVR_MCU(F_CPU, "atmega32u4");
+AVR_MCU_VCD_PORT_PIN('C', 7, "REDLED");
+AVR_MCU_VCD_PORT_PIN('C', 6, "SPEAKER");
+AVR_MCU_VCD_PORT_PIN('B', 0, "NEOPIX");
+AVR_MCU_VOLTAGES(3300, 3300, 3300);
